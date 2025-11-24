@@ -1,0 +1,19 @@
+
+---
+
+## 📄 requirements.txt
+
+```text
+pandas==2.2.2
+numpy==1.26.4
+yfinance==0.2.48
+requests==2.32.3
+scikit-learn==1.5.2
+plotly==5.24.1
+kaleido==0.2.1
+matplotlib==3.9.2
+streamlit==1.38.0
+
+# Optional (install manually if needed)
+# prophet==1.1.5
+# tensorflow==2.15.0
